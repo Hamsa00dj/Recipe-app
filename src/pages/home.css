@@ -1,0 +1,8 @@
+span > a{
+    font-size: 1.8rem;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+}
